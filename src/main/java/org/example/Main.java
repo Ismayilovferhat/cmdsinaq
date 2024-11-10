@@ -5,6 +5,6 @@ public class Main {
 
         System.out.println("men ferhad ismayilov");
         System.out.println("koda deyisiklik etdim ");
-
+        System.out.println("yeni brachdea elemeisem deyisikliyi");
     }
 }
